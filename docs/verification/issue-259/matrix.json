@@ -1,0 +1,488 @@
+[
+  {
+    "width": 320,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 288
+  },
+  {
+    "width": 320,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 288
+  },
+  {
+    "width": 320,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 288
+  },
+  {
+    "width": 320,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 288
+  },
+  {
+    "width": 320,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 288
+  },
+  {
+    "width": 320,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 288
+  },
+  {
+    "width": 390,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "en",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "en",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 390,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 358
+  },
+  {
+    "width": 768,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 500.234375
+  },
+  {
+    "width": 768,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 500.234375
+  },
+  {
+    "width": 768,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 500.234375
+  },
+  {
+    "width": 768,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 19.2,
+    "articleWidth": 500.234375
+  },
+  {
+    "width": 768,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 500.234375
+  },
+  {
+    "width": 768,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 500.234375
+  },
+  {
+    "width": 1024,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 718.3125
+  },
+  {
+    "width": 1024,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 718.3125
+  },
+  {
+    "width": 1024,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 20.48,
+    "articleWidth": 688.3125
+  },
+  {
+    "width": 1024,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 20.48,
+    "articleWidth": 688.3125
+  },
+  {
+    "width": 1024,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 718.3125
+  },
+  {
+    "width": 1024,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 718.3125
+  },
+  {
+    "width": 1440,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "default",
+    "theme": "light",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "default",
+    "theme": "dark",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 24,
+    "articleWidth": 1080
+  },
+  {
+    "width": 1440,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 24,
+    "articleWidth": 1080
+  },
+  {
+    "width": 1440,
+    "appearance": "cute-pastel",
+    "theme": "light",
+    "locale": "en",
+    "font": 16,
+    "heading": 24,
+    "articleWidth": 1080
+  },
+  {
+    "width": 1440,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 24,
+    "articleWidth": 1080
+  },
+  {
+    "width": 1440,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 24,
+    "articleWidth": 1080
+  },
+  {
+    "width": 1440,
+    "appearance": "cute-pastel",
+    "theme": "dark",
+    "locale": "en",
+    "font": 16,
+    "heading": 24,
+    "articleWidth": 1080
+  },
+  {
+    "width": 1440,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "swiss-minimal",
+    "theme": "light",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hans",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "zh-Hant",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  },
+  {
+    "width": 1440,
+    "appearance": "swiss-minimal",
+    "theme": "dark",
+    "locale": "en",
+    "font": 16,
+    "heading": 21.6,
+    "articleWidth": 1110
+  }
+]
